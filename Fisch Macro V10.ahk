@@ -37,7 +37,7 @@ WhiteBarColorTolerance := 15
 FishBarColorTolerance := 4
 
 ; Click Mode Settings
-ShakeDelay := 100
+ShakeDelay := 200
 ShakeBypassCounter := 10
 ShakeFailedCounter := 50
 ShakeColorTolerance := 5
